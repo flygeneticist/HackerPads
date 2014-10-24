@@ -37,7 +37,8 @@
         android:weightSum="1"
         android:layout_below="@+id/textDescrip"
         android:paddingTop="20dp"
-        android:id="@+id/searchBox">
+        android:id="@+id/searchBox"
+        android:layout_above="@+id/textFooter">
 
         <FrameLayout
             android:layout_width="match_parent"
