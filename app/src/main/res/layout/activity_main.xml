@@ -81,7 +81,7 @@
                 <ToggleButton
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:text="SE Asia"
+                    android:text="Central America"
                     android:id="@+id/buttonCA"
                     android:enabled="true"
                     android:background="@drawable/central_america_button"
